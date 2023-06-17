@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>AEMoveSourceFiles</id>
+    <version>1.0.0</version>
+    <authors>AEMoveSourceFiles</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0-windows7.0" />
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net6.0-windows7.0">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WindowsForms" />
+      </group>
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="C:\Users\Evelyn\source\repos\AEMoveSourceFiles\AEMoveSourceFiles\bin\Debug\net6.0-windows\AEMoveSourceFiles.runtimeconfig.json" target="lib\net6.0-windows7.0\AEMoveSourceFiles.runtimeconfig.json" />
+    <file src="C:\Users\Evelyn\source\repos\AEMoveSourceFiles\AEMoveSourceFiles\bin\Debug\net6.0-windows\AEMoveSourceFiles.dll" target="lib\net6.0-windows7.0\AEMoveSourceFiles.dll" />
+  </files>
+</package>

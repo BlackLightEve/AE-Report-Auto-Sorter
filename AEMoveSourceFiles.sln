@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AEMoveSourceFiles", "AEMoveSourceFiles\AEMoveSourceFiles.csproj", "{8316C789-F177-4554-AC34-D5CC2C8365CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8316C789-F177-4554-AC34-D5CC2C8365CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8316C789-F177-4554-AC34-D5CC2C8365CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8316C789-F177-4554-AC34-D5CC2C8365CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8316C789-F177-4554-AC34-D5CC2C8365CD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {987402CB-7E73-4124-AC33-7A95AE3CBF41}
+	EndGlobalSection
+EndGlobal

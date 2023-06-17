@@ -1,0 +1,17 @@
+C:\Users\Evelyn\source\repos\AEMoveSourceFiles\AEMoveSourceFiles\bin\Debug\net6.0-windows\AEMoveSourceFiles.exe
+C:\Users\Evelyn\source\repos\AEMoveSourceFiles\AEMoveSourceFiles\bin\Debug\net6.0-windows\AEMoveSourceFiles.deps.json
+C:\Users\Evelyn\source\repos\AEMoveSourceFiles\AEMoveSourceFiles\bin\Debug\net6.0-windows\AEMoveSourceFiles.runtimeconfig.json
+C:\Users\Evelyn\source\repos\AEMoveSourceFiles\AEMoveSourceFiles\bin\Debug\net6.0-windows\AEMoveSourceFiles.dll
+C:\Users\Evelyn\source\repos\AEMoveSourceFiles\AEMoveSourceFiles\bin\Debug\net6.0-windows\AEMoveSourceFiles.pdb
+C:\Users\Evelyn\source\repos\AEMoveSourceFiles\AEMoveSourceFiles\obj\Debug\net6.0-windows\AEMoveSourceFiles.csproj.AssemblyReference.cache
+C:\Users\Evelyn\source\repos\AEMoveSourceFiles\AEMoveSourceFiles\obj\Debug\net6.0-windows\AEMoveSourceFiles.Form1.resources
+C:\Users\Evelyn\source\repos\AEMoveSourceFiles\AEMoveSourceFiles\obj\Debug\net6.0-windows\AEMoveSourceFiles.csproj.GenerateResource.cache
+C:\Users\Evelyn\source\repos\AEMoveSourceFiles\AEMoveSourceFiles\obj\Debug\net6.0-windows\AEMoveSourceFiles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Evelyn\source\repos\AEMoveSourceFiles\AEMoveSourceFiles\obj\Debug\net6.0-windows\AEMoveSourceFiles.AssemblyInfoInputs.cache
+C:\Users\Evelyn\source\repos\AEMoveSourceFiles\AEMoveSourceFiles\obj\Debug\net6.0-windows\AEMoveSourceFiles.AssemblyInfo.cs
+C:\Users\Evelyn\source\repos\AEMoveSourceFiles\AEMoveSourceFiles\obj\Debug\net6.0-windows\AEMoveSourceFiles.csproj.CoreCompileInputs.cache
+C:\Users\Evelyn\source\repos\AEMoveSourceFiles\AEMoveSourceFiles\obj\Debug\net6.0-windows\AEMoveSourceFiles.dll
+C:\Users\Evelyn\source\repos\AEMoveSourceFiles\AEMoveSourceFiles\obj\Debug\net6.0-windows\refint\AEMoveSourceFiles.dll
+C:\Users\Evelyn\source\repos\AEMoveSourceFiles\AEMoveSourceFiles\obj\Debug\net6.0-windows\AEMoveSourceFiles.pdb
+C:\Users\Evelyn\source\repos\AEMoveSourceFiles\AEMoveSourceFiles\obj\Debug\net6.0-windows\AEMoveSourceFiles.genruntimeconfig.cache
+C:\Users\Evelyn\source\repos\AEMoveSourceFiles\AEMoveSourceFiles\obj\Debug\net6.0-windows\ref\AEMoveSourceFiles.dll

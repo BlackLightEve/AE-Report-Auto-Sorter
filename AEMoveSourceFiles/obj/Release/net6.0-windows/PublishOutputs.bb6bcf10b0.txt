@@ -1,0 +1,5 @@
+C:\Users\Evelyn\source\repos\AEMoveSourceFiles\AEMoveSourceFiles\bin\publish\AEMoveSourceFiles.exe
+C:\Users\Evelyn\source\repos\AEMoveSourceFiles\AEMoveSourceFiles\bin\publish\AEMoveSourceFiles.dll
+C:\Users\Evelyn\source\repos\AEMoveSourceFiles\AEMoveSourceFiles\bin\publish\AEMoveSourceFiles.deps.json
+C:\Users\Evelyn\source\repos\AEMoveSourceFiles\AEMoveSourceFiles\bin\publish\AEMoveSourceFiles.runtimeconfig.json
+C:\Users\Evelyn\source\repos\AEMoveSourceFiles\AEMoveSourceFiles\bin\publish\AEMoveSourceFiles.pdb
